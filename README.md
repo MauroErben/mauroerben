@@ -8,7 +8,7 @@ I am 22 years old, I am passionate about web development, I currently excel in t
 * 🌍  I'm based in Mendoza, Argentina
 * 🖥️  See my portfolio at [Portfolio](https://portfolio-mauroerben.vercel.app/)
 * ✉️  You can contact me at [mauroerben100@hotmail.com](mailto:mauroerben100@hotmail.com)
-* 🧠  I'm learning Node.js y React native
+* 🧠  I'm learning Node.js and React native
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/mauroo_dev" target="_blank" rel="noreferrer"><img
@@ -23,7 +23,6 @@ src="https://img.shields.io/github/followers/MauroErben?logo=github&style=for-th
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
