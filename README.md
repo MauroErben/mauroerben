@@ -6,7 +6,7 @@ Frontend developer
 I am 22 years old, I am passionate about web development, I currently excel in the frontend and day by day I am working to become a fullstack web developer.
 
 * 🌍  I'm based in Mendoza, Argentina
-* 🖥️  See my portfolio at [Portfolio](http://https://portfolio-mauroerben.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio](https://portfolio-mauroerben.vercel.app/)
 * ✉️  You can contact me at [mauroerben100@hotmail.com](mailto:mauroerben100@hotmail.com)
 * 🧠  I'm learning Node.js y React native
 * 🤝  I'm open to collaborating on interesting projects
